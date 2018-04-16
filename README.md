@@ -1,11 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This a simple web application with blog features
 
 * Ruby version
+- 2.4.4p296 (2018-03-28 revision 63013)
 
 * System dependencies
 
