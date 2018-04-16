@@ -1,6 +1,6 @@
 # README
 
-This a simple web application with blog features
+This a simple web application with blog CRUD features 
 
 ## Requirement
 -  Ruby version 2.2.2 or later
