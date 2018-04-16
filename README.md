@@ -8,8 +8,9 @@ This a simple web application with blog features
 -  Rails
 
 ## How to run it
-- Open command line, run `$ bin/rails server` (or `ruby bin\rails server` in windows)
-- Leaving the command line running. In web browser, nivegate to http://localhost:3000/
+- Open command line, cd to the main directory
+- Run `$ bin/rails server` (or `ruby bin\rails server` in windows)
+- Leaving the command line running. In web browser, nivagate to http://localhost:3000/
 
 
 ## TBD
