@@ -12,6 +12,8 @@ This a simple web application with blog features
 - Leaving the command line running. In web browser, nivegate to http://localhost:3000/
 
 
+## TBD
+
 * Ruby version: 2.4.4p296 (2018-03-28 revision 63013)
 
 * System dependencies
